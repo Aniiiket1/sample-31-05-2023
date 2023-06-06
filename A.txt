@@ -3,3 +3,5 @@ abt github intro
 practice for github push
 trying edited file psuh on 3rd June
 resolving merge conflicts A branch
+trying edited file psuh on 3rd June.
+Branch merge practice - 5th june
